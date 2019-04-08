@@ -1,0 +1,34 @@
+{
+  "questions" : [
+    {
+      "question": "What a revolutionnary and big speaker declared in 1792 : “of the audacity, still of the audacity, always of the audacity.” ?",
+      "answers": [
+        "Desmoulin",
+        "Danton",
+        "Robespierre",
+        "Saint Just"
+      ],
+      "ok": 1
+    },
+    {
+      "question": "In which country can we find mount Elbrouz ?",
+      "answers": [
+        "Russie",
+        "Azerbaïdjan",
+        "Géorgie",
+        "Iran"
+      ],
+      "ok": 0
+    },
+    {
+      "question": "Who said that “Ich bin ein Berliner” ?",
+      "answers": [
+        "Bismarck",
+        "Reagan",
+        "De Gaulle",
+        "Kennedy"
+      ],
+      "ok": 3
+    }
+  ]
+}
